@@ -1,4 +1,4 @@
-body { background: #222; color: floralwhite; font-family: serif; }
+body { background: #222; color: floralwhite; font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif; }
 .p-summary, blockquote { border-left: solid greenyellow; margin: 1rem; padding: 0.5rem; }
 article { margin: 1%; }
 a, h1 { color: greenyellow; }
