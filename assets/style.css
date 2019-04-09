@@ -1,0 +1,7 @@
+body { background: #222; color: floralwhite; font-family: serif; }
+.p-summary, blockquote { border-left: solid greenyellow; margin: 1rem; padding: 0.5rem; }
+article { margin: 1%; }
+a, h1 { color: greenyellow; }
+header { border-bottom: double greenyellow; border-top: double greenyellow; }
+#little-something { float: right; position: relative; }
+.h-card .u-photo { max-width: 3rem; }
