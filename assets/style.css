@@ -4,4 +4,7 @@ article { margin: 1%; }
 a, h1 { color: greenyellow; }
 header { border-bottom: double greenyellow; border-top: double greenyellow; }
 #little-something { float: right; position: relative; }
+@media (max-width: 700px) {
+    #little-something { display: none; }
+}
 .h-card .u-photo { max-width: 3rem; }
